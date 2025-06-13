@@ -11,11 +11,11 @@ Follow the steps below to set up and run this project on your local machine.
 - [Node.js](https://nodejs.org/) (includes npm)
 
 Check if Node and npm are installed:
-- open the terminal and run the following commands:
-node -v
-npm -v
-git clone https://github.com/your-username/your-vite-project.git
-cd your-vite-project
-npm install
-npm run dev
+- open the terminal and run the following commands:      
+node -v <br>
+npm -v <br>
+git clone https://github.com/your-username/your-vite-project.git <br>
+cd your-vite-project <br>
+npm install <br>
+npm run dev <br>
 
